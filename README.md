@@ -4,12 +4,9 @@
 
 Data: UCI HAR dataset
 
-horizontal rule:
 
 ***
 ### Silvia Dinu
-
-horizontal rule:
 
 ***
 #### Requirements:
