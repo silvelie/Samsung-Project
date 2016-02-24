@@ -14,5 +14,5 @@
     was used to unite the data frames. To add the activity labes and names - left_join() method using the the ActivityLabel variable
     as the joining variable.
    + slim_data - from the gross_data data frame were extracted some columns using the select() and the matches() methods
-       + and a regular expresion.
+    and a regular expresion.
    + tidy_data - a summary of the data set grouped by subject and activity with corresponding means for each variable.
